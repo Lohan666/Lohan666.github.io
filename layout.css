@@ -1,9 +1,10 @@
 h1{
 	font:italic arial,sans-serif;
+	color:#00ff00
 }
 
 p{
 	font-size:12px;
 	text-indent:5px;
-	
+	font-decoration:noe;
 }
